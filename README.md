@@ -1,2 +1,9 @@
 # s3-codepipeline
 When new code is pushed to GitHub, the S3 static website updates automatically through CodePipeline.
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Welcome to My Static Website by manju</h1>
+<p>Deployed using AWS CodePipeline + S3</p>
+</body>
+</html>
