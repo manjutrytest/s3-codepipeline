@@ -3,7 +3,7 @@ When new code is pushed to GitHub, the S3 static website updates automatically t
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Welcome to My Static Website by manju</h1>
+<h1>Welcome to My Static Website by manju test</h1>
 <p>Deployed using AWS CodePipeline + S3</p>
 </body>
 </html>
